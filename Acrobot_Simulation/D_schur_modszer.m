@@ -1,3 +1,4 @@
+%% Implementation of the discrete schur
 function P=D_schur_modszer(A_d,B_d,R,Q)
     H = [A_d+B_d*inv(R)*B_d'*inv(A_d')*Q -B_d*inv(R)*B_d'*inv(A_d');...
         -inv(A_d')*Q inv(A_d')];

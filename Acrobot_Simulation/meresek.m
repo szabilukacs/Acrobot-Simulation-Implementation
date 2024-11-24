@@ -1,10 +1,10 @@
-% Meresek
+% Manual visualization of the datas from txt
 
 clear all;
 close all;
 clc
-% megcsinalni meg for-ba
-file = fopen('Meresek/meresuj16.txt','r');
+
+file = fopen('Meresek/meres6.txt','r');
 
 formatSpec = '%f,%f,%f';
 sizeA = [3 Inf];

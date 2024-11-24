@@ -8,8 +8,6 @@ Ts = 0.0005; % legalabb ennyi legyen
 
 t_diszkret = Ts:Ts:length(q1_m)/2000;
 
-
-
 figure(1);
 subplot(4,1,1);
 hold on;
