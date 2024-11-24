@@ -2,7 +2,10 @@
 
 This repository contains the code and resources for my university thesis, which focused on the simulation and implementation of an **Acrobot** system. The Acrobot is a two-link underactuated robotic arm, commonly used in control theory research. This project bridges theoretical simulations with practical hardware implementation, showcasing the swing-up and stabilization of the Acrobot using Linear-Quadratic Regulator (LQR) control.
 
-![Main Image](media/Real_Acrobot_Simulation3.avi)
+<video width="250" height="280" autoplay>
+  <source src="media/Real_Acrobot_Simulation3.avi" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -57,14 +60,14 @@ This repository contains the code and resources for my university thesis, which 
 ## 📸 Screenshots and Visuals
 
 ### Simulink Model
-![Simulink Model](media/acrobot_simulation.png)
 
-![Simulink Model](media/phase1.png)
+<img src="media/acrobot_simulation.png" width="250" height="280">
+<img src="media/phase1.jpg" width="250" height="280">
 
 ### Implementation Setup
-![Acrobot Implementation](media/encoder.jpg)
+<img src="media/encoder.jpg" width="250" height="280">
 
-![Acrobot Implementation](media/servo.jpg)
+<img src="media/servo.jpg" width="250" height="280">
 
 ---
 
